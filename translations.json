@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "lastUpdated": "2025-10-27T21:30:00Z",
+  "translations": {
+    "Data": "データ",
+    "Views": "ビュー (画面)",
+    "Actions": "アクション",
+    "Automation": "自動化",
+    "Save": "保存",
+    "Cancel": "キャンセル",
+    "New View": "新しいビュー",
+    "Table name": "テーブル名",
+    "Columns": "カラム (列)",
+    "Security": "セキュリティ",
+    "UX": "UX (UI)",
+    "Info": "情報"
+  }
+}
