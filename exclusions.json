@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "selectors": [
+    // --- 必要に応じてセレクタを追加 ---
+    // 例: 特定のIDを持つ要素を除外
+    // "#formula-input-area"
+    // 例: 特定の属性を持つ要素を除外
+    // "[role='textbox'][aria-label*='formula']"
+    ".monaco-editor",      // Monacoエディタ (AppSheetの新しい式エディタで使われている可能性)
+    ".ace_editor",         // Aceエディタ (古い式エディタで使われている可能性)
+    ".expression-input-class", // 以前特定したクラス (仮)
+    ".DropdownControl"
+  ]
+}
